@@ -1,0 +1,148 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+body{
+    color: #484f5b;
+    font-family: 'Open Sans', sans-serif;
+}
+.container{
+    padding: 0 100px;
+}
+.yoga-training{
+    background: #e5ccc6;
+    min-height: 600px;
+}
+.yoga-img{
+    width: 40%;
+    float: left;
+}
+.yoga-img img{
+    width: 100%;
+    padding: 157px 0 165px 50px;
+}
+.yoga-text{
+    width: 50%;
+    float: right;
+    padding: 187px 0 0px 30px;
+}
+.yoga-text h2{
+   font-size: 50px;
+   width: 70%;
+}
+.yoga-text p{
+    font-size: 20px;
+    margin-top: 50px;
+    width: 80%;
+}
+.form{
+    background: url('../images/bg-1.png');
+    min-height: 600px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.form-top{
+   text-align: center;
+    clear: both;
+}
+.form-top h3{
+   font-size: 50px;
+   margin-bottom: 20px;
+}
+.form-top p{
+   font-size: 20px;
+   width: 75%;
+   margin: 0px auto;
+}
+.form-action{
+    text-align: center;
+    padding: 100px 0;
+}
+.name{
+    background-color: #efefef;
+    border: 1px solid #b0b0b0;
+    padding: 10px 0 5px 20px;
+    font-size: 20px;
+}
+.btn{
+    background: #484f5b;
+    padding: 10px 450px;
+    color: #fff;
+    font-size: 20px;
+}
+.footer{
+    background: #484f5b;
+    min-height: 330px;
+    color: #fff;
+}
+.footer-1{
+    width: 20%;
+    float: left;
+    padding: 50px 0 0;
+}
+
+.footer-1 ul li{
+    list-style-type: none;
+    margin-bottom: 10px;
+    text-align: center;
+    text-align: justify;
+    
+}
+.ff1 p{
+    width: 70%;
+    padding: 20px 0 30px ;
+}
+.ff1 span a{
+    text-decoration: none;
+    padding: 15px 0 10px ;
+    color: #fff;
+}
+.ff2, .ff3, .ff4 h4{
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 16px;
+}
+.ff2 h4{
+    margin-bottom: 20px;
+}
+.ff3 h4{
+    margin-bottom: 20px;
+}
+.ff2 ul li{
+    padding-left: 73px; 
+}
+.ff2 ul li a{
+    text-decoration: none;
+    color: #fff;
+    margin-top: 10px;
+}
+.ff3 ul li a{
+    text-decoration: none;
+    color: #fff;
+    margin-top: 10px;
+}
+.ff4 ul li a{
+    text-decoration: none;
+    color: #fff;
+    margin-top: 10px;
+}
+.ff3 ul li{
+    padding-left: 55px; 
+}
+.ff4 ul li{
+    padding-left: 70px; 
+}
+.ff5 span{
+    padding: 20px 0 10px;
+}
+.icon {
+    margin-top: 20px;
+}
+#icon{
+    padding-right: 10px;
+}
+#icon-2{
+    padding-right: 10px;
+}
